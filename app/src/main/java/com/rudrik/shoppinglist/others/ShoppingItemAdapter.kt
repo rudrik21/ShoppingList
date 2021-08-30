@@ -1,9 +1,10 @@
-package com.rudrik.shoppinglist
+package com.rudrik.shoppinglist.others
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.rudrik.shoppinglist.R
 import com.rudrik.shoppinglist.data.db.entities.ShoppingItem
 import com.rudrik.shoppinglist.ui.shoppinglist.ShoppingViewModel
 import kotlinx.android.synthetic.main.shopping_item.view.*
